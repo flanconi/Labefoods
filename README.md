@@ -59,8 +59,8 @@ https://carver-labefood5.surge.sh/
 
 ### Desenvolvido por 
 
-- Igor Freitas 
-- Leonardo Broca 
-- Marcelo Maia 
+- [Igor Freitas](https://github.com/0dayIg0r)
+- [Leonardo Broca](https://github.com/Leozbroca)
+- [Marcelo Maia](https://github.com/yMarceloMaia)
 - Maria Lançoni 
-- Pedro Henrique Duarte
+- [Pedro Henrique Duarte](https://github.com/pedrohenriqueduarte)
