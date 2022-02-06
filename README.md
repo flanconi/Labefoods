@@ -53,10 +53,6 @@ como framework. Layout para mobile.
 
 - [LabeFood](https://documenter.getpostman.com/view/7549981/SWTEdGtT)
 
-### Link de acesso 
-
-https://carver-labefood5.surge.sh/
-
 ### Desenvolvido por 
 
 - [Igor Freitas](https://github.com/0dayIg0r)
