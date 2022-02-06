@@ -62,5 +62,5 @@ https://carver-labefood5.surge.sh/
 - [Igor Freitas](https://github.com/0dayIg0r)
 - [Leonardo Broca](https://github.com/Leozbroca)
 - [Marcelo Maia](https://github.com/yMarceloMaia)
-- Maria Lançoni 
+- Maria Fernanda Lançoni 
 - [Pedro Henrique Duarte](https://github.com/pedrohenriqueduarte)
